@@ -1,0 +1,16 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-10-18 11:18:24 --> Could not find the language line "id_card_id"
+ERROR - 2022-10-18 11:20:39 --> Could not find the language line "id_card_id"
+ERROR - 2022-10-18 11:21:20 --> Could not find the language line "id_card_id"
+ERROR - 2022-10-18 13:26:48 --> Could not find the language line "id_card_id"
+ERROR - 2022-10-18 13:43:11 --> Could not find the language line "id_card_id"
+ERROR - 2022-10-18 13:44:06 --> Could not find the language line "id_card_id"
+ERROR - 2022-10-18 13:44:57 --> Could not find the language line "id_card_id"
+ERROR - 2022-10-18 13:45:46 --> Could not find the language line "id_card_id"
+ERROR - 2022-10-18 13:45:58 --> Could not find the language line "id_card_id"
+ERROR - 2022-10-18 14:01:27 --> Could not find the language line "id_card_id"
+ERROR - 2022-10-18 14:06:15 --> Could not find the language line "id_card_id"
+ERROR - 2022-10-18 14:09:54 --> Could not find the language line "id_card_id"
+ERROR - 2022-10-18 14:22:32 --> Could not find the language line "id_card_id"
+ERROR - 2022-10-18 23:14:55 --> Could not find the language line "edit_savings_type"

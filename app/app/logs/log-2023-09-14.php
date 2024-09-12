@@ -1,0 +1,26 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-09-14 01:02:41 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 01:02:41 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 01:02:41 --> Could not find the language line "h_pot"
+ERROR - 2023-09-14 04:01:08 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 04:01:08 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 05:51:47 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 05:51:48 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 05:51:48 --> Could not find the language line "h_pot"
+ERROR - 2023-09-14 10:39:57 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 10:39:57 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 12:59:20 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 12:59:20 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 12:59:29 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 12:59:29 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 12:59:51 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 12:59:51 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 12:59:55 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 12:59:55 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 12:59:55 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 12:59:55 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 12:59:55 --> Could not find the language line "h_pot"
+ERROR - 2023-09-14 13:00:21 --> 404 Page Not Found: Account/index
+ERROR - 2023-09-14 13:00:23 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-09-14 13:00:23 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203

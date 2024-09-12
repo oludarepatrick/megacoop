@@ -1,0 +1,12 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-12-27 04:41:18 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-12-27 04:41:18 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-12-27 04:41:19 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-12-27 04:41:19 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-12-27 05:52:45 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-12-27 05:52:46 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-12-27 10:36:16 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-12-27 10:36:16 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-12-27 17:40:47 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203
+ERROR - 2023-12-27 17:40:47 --> Severity: Warning --> mysqli::real_connect(): Headers and client library minor version mismatch. Headers:100519 Library:100236 /home/megaydcz/new.megacoop.org/app/system/database/drivers/mysqli/mysqli_driver.php 203

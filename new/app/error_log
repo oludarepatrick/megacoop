@@ -1,0 +1,13 @@
+[22-Nov-2021 09:51:50 Africa/Lagos] PHP Fatal error:  Call to a member function result() on boolean in /home/megaydcz/new.megacoop.org/app/app/models/Info_model.php on line 349
+[17-Feb-2022 03:36:05 America/New_York] PHP Fatal error:  Call to a member function row() on boolean in /home/megaydcz/new.megacoop.org/app/app/models/Common_model.php on line 38
+[17-Mar-2022 16:10:52 Africa/Lagos] PHP Fatal error:  Call to a member function send_SMS() on null in /home/megaydcz/new.megacoop.org/app/app/controllers/Withdrawal.php on line 134
+[01-Apr-2022 17:04:11 Africa/Lagos] PHP Fatal error:  Call to a member function send_SMS() on null in /home/megaydcz/new.megacoop.org/app/app/controllers/Withdrawal.php on line 134
+[29-Apr-2022 14:54:20 Africa/Lagos] PHP Fatal error:  Call to a member function send_SMS() on null in /home/megaydcz/new.megacoop.org/app/app/controllers/Withdrawal.php on line 134
+[26-Sep-2022 17:31:02 Africa/Lagos] PHP Fatal error:  Call to a member function send_SMS() on null in /home/megaydcz/new.megacoop.org/app/app/controllers/Withdrawal.php on line 134
+[12-Oct-2022 01:24:48 America/New_York] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/megaydcz/new.megacoop.org/app/app/controllers/member/Products.php on line 26
+[31-Oct-2022 17:26:39 Africa/Lagos] PHP Fatal error:  Call to a member function send_SMS() on null in /home/megaydcz/new.megacoop.org/app/app/controllers/Withdrawal.php on line 134
+[14-Dec-2022 17:28:12 Africa/Lagos] PHP Fatal error:  Call to a member function send_SMS() on null in /home/megaydcz/new.megacoop.org/app/app/controllers/Withdrawal.php on line 134
+[14-Dec-2022 17:28:24 Africa/Lagos] PHP Fatal error:  Call to a member function send_SMS() on null in /home/megaydcz/new.megacoop.org/app/app/controllers/Withdrawal.php on line 134
+[13-Jan-2023 16:12:53 Africa/Lagos] PHP Fatal error:  Call to a member function send_SMS() on null in /home/megaydcz/new.megacoop.org/app/app/controllers/Withdrawal.php on line 134
+[13-Jan-2023 16:13:05 Africa/Lagos] PHP Fatal error:  Call to a member function send_SMS() on null in /home/megaydcz/new.megacoop.org/app/app/controllers/Withdrawal.php on line 134
+[23-Jan-2023 13:11:28 Africa/Lagos] PHP Fatal error:  Call to a member function send_SMS() on null in /home/megaydcz/new.megacoop.org/app/app/controllers/Withdrawal.php on line 134

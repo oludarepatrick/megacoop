@@ -1,0 +1,4 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-02-24 19:56:49 --> Could not find the language line "h_pot"
+ERROR - 2024-02-24 19:56:49 --> 404 Page Not Found: Account/index
